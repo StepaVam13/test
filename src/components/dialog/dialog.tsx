@@ -28,7 +28,7 @@ const Dialog: FC<DialogProps> = ({ className, onClose }) => {
       <div ref={rootRef} className={rootClassName}>
         <div ref={contentRef} className={styles.content}>
           <div className={styles.buttons}>
-            <Button>Action</Button>
+            <Button>Actin</Button>
 
             <Button onClick={onClose}>Close</Button>
           </div>
