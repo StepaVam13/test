@@ -14,7 +14,7 @@ const Intro: FC<IntroProps> = ({className}) => {
 					{`{IT NAME`}<br/>{`AGENCY}`}
 				</h1>
 				<p className={styles.description}>
-					<span className={styles.highlighted}>Your</span> Vision<span className={styles.signs}>,</span> <span className={styles.highlighted}>Our</span>  Code <span className={styles.signs}>—</span> <span className={styles.highlighted}>Let&#39;s <br/> Build</span>  the Web <span className={styles.highlighted}>Together</span>
+					<span className={styles.highlighted}>Yourrrr</span> Vision<span className={styles.signs}>,</span> <span className={styles.highlighted}>Our</span>  Code <span className={styles.signs}>—</span> <span className={styles.highlighted}>Let&#39;s <br/> Build</span>  the Web <span className={styles.highlighted}>Together</span>
 				</p>
 			</div>
     </div>
